@@ -1,2 +1,2 @@
 # canadian_languages
-#Author: Linda Huang
+#Author: Linda (YuLin) Huang
